@@ -1,0 +1,2 @@
+ajay singh|pass123|ajay singh|test@gmail.com|AIML|3|999399933
+0103al243d03,pass123,ajay singh,test@gmail.com,aiml,3
