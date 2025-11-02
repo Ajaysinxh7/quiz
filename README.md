@@ -1,0 +1,3 @@
+--I have created quiz program using python.  
+--Where i took help of file handling to store questions that are present in quizzes.txt file and user's profile in users.txt and there scores.   
+--In quiz i have included 3 categories they are DSA,PYTHON,DBMS with 10 questions each.
